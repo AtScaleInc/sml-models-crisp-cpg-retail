@@ -1,0 +1,6 @@
+unique_name: Connection - CRISP
+label: Connection - CRISP
+object_type: connection
+as_connection: Databricks
+database: crisp_inc_cpg_retail_and_distributor_data_samples
+schema: examples
