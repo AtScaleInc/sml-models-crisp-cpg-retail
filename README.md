@@ -25,7 +25,7 @@ Much more. Crisp also provides many other datasets, depending on source availabi
 ## Data Loading Instructions
 
 ### Databricks
-The CRISP CPG Retails dataset's sample data is free in the Databricks Marketplace. To get access to the tutorial data in the Databricks Marketplace:
+The CRISP CPG Retail dataset's sample data is free in the Databricks Marketplace. To get access to the data in the Databricks Marketplace:
 
 1. **Go to the Databricks Marketplace:** In the Databricks workspace console, Click on "Data Products" and then click on the "Marketplace" link.
 
