@@ -13,19 +13,14 @@ hierarchies:
     levels:
 
       - unique_name: Year
-        time_unit: year
 
       - unique_name: Quarter
-        time_unit: quarter
 
       - unique_name: Month
-        time_unit: month
 
       - unique_name: Week
-        time_unit: week
 
       - unique_name: Date
-        time_unit: day
 
 level_attributes:
 
